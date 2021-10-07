@@ -1,13 +1,14 @@
 <h1 align="center">
   <p align="right">
     <img
-      src="https://komarev.com/ghpvc/?username=hackmeany&label=Profile%20views&color=0e75b6&style=flat"
+      src="https://komarev.com/ghpvc/?username=hackmeany&label=VIEWS&color=0e75b6&style=flat"
       alt="hackmeany"
     />
   </p>
+
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+%F0%9F%91%8B;This+is+Aniket+(aka%20HackME)....;Nice+to+meet+you!&center=true&size=30"
+      src="https://readme-typing-svg.herokuapp.com?color=%2310D7F7&size=30&center=true&vCenter=true&width=500&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Aniket+aka+HackME;Nice+to+meet+you!"
     />
   </a>
 </h1>
