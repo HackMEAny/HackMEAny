@@ -92,7 +92,7 @@
 <br>
 
 <!-- <h3 align="left">Languages and Tools:</h3> -->
-<p> Programming Languages<hr>
+<p><b> Programming Languages</b><hr>
   <a href="https://www.python.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
@@ -130,7 +130,7 @@
   </a>
 
 </p>
-<p>Frontend Development<hr/>
+<p><b>Frontend Development</b><hr/>
   <a href="https://reactjs.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -149,7 +149,7 @@
   </a>
 
 </p>
-<p>Backend Development<hr/>
+<p><b>Backend Development</b><hr/>
   <a href="https://www.nginx.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
@@ -168,7 +168,7 @@
   </a>
 
 </p>
-<p>Database<hr/>
+<p><b>Database</b><hr/>
   <a href="https://www.oracle.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
@@ -187,7 +187,7 @@
   </a>
 
 </p>
-<p>Devops<hr/>
+<p><b>Devops</b><hr/>
   <a href="https://www.docker.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
@@ -206,7 +206,7 @@
   </a>
 
 </p>
-<p> Backend as a Service(BaaS) <hr/>
+<p><b> Backend as a Service(BaaS) </b><hr/>
   <a href="https://firebase.google.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
@@ -225,7 +225,7 @@
   </a>
 
 </p>
-<p> Framework <hr/>
+<p><b> Framework</b> <hr/>
   <a href="https://www.djangoproject.com/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg"
@@ -244,7 +244,7 @@
   </a>
 
 </p>
-<p> Others <hr/>
+<p> <b>Others</b> <hr/>
   <a href="https://www.arduino.cc/" target="_blank">
     <img
       src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
@@ -305,7 +305,7 @@
 </details>
 <hr/>
 
-## 📊 Github stats
+## 📊 Github stats ⚡
 
 <p>
   &nbsp;<img
