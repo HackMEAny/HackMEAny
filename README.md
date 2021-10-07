@@ -309,23 +309,24 @@
 ## 📊 Github stats ⚡
 
 <p>
-  &nbsp;<img
-    align="center"
+  <img
+    align="left"
+    width=396
     src="https://github-readme-stats.vercel.app/api?username=hackmeany&show_icons=true&locale=en&&theme=dracula"
     alt="hackmeany"
   />
-</p>
-
-<p>
   <img
-    align="center"
+    align="right"
+    width=396
     src="https://github-readme-streak-stats.herokuapp.com/?user=hackmeany&theme=dracula"
     alt="hackmeany"
   />
 </p>
-<p>
+<br><br><br><br><br><br><br><br><br>
+<p align="center">
   <img
-    align="left"
+    align="center"
+    width=396
     src="https://github-readme-stats.vercel.app/api/top-langs?username=hackmeany&show_icons=true&locale=en&layout=compact&&theme=dracula"
     alt="hackmeany"
   />
