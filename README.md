@@ -89,10 +89,8 @@
 ## 🛠️ Languages and Tools:
 
 <details close>
-
-<summary><b> Expand to View</b> </summary>
+<summary><b>&#9776; READ MORE </b> </summary>
 <br>
-
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 <p><b> Programming Languages</b><hr>
   <a href="https://www.python.org" target="_blank">
