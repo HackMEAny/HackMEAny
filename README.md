@@ -77,7 +77,7 @@
       alt="aniket10702843"
   /></a>
 </p>
-
+<!-- Details Section-->
 - 🔭 I’m currently studying **Computer Science Engineering**
 - 💬 Ask me about **Cyber Security, IOT, Python, Git, C**
 - 📫 How to reach me **[Ⱥղìҟҽէ#4609](https://discordapp.com/users/484923466445750273) on Discord**
@@ -330,3 +330,11 @@
     alt="hackmeany"
   />
 </p>
+<!-- Footer -->
+<samp>
+    <p align="center">
+        ════ ⋆★⋆ ════
+        <br>
+        "Happy Coding👨‍💻!"
+    </p>
+</samp>
