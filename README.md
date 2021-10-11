@@ -307,6 +307,8 @@
 </details>
 <hr/>
 
+<!-- Stats -->
+
 ## 📊 Github stats ⚡
 
 <p>
