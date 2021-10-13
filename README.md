@@ -6,7 +6,7 @@
       alt="hackmeany"
     />
   </p>
-
+<!-- Type SVG-->
   <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.herokuapp.com?color=%2310D7F7&size=30&center=true&vCenter=true&width=500&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Aniket+aka+HackME;Nice+to+meet+you!"
