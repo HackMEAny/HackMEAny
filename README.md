@@ -7,11 +7,9 @@
     />
   </p>
 <!-- Type SVG-->
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?color=%2310D7F7&size=30&center=true&vCenter=true&width=500&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Aniket+aka+HackME;Nice+to+meet+you!"
-    />
-  </a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2310D7F7&size=30&center=true&vCenter=true&width=500&lines=Hello%2C+There!+%F0%9F%91%8B;This+is+Aniket+aka+HackME;Nice+to+meet+you!"/>
+</a>
 </h1>
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="center">
@@ -31,7 +29,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://linkedin.com/in/aniket-das-4376ba154" target="blank"
+<a href="https://linkedin.com/in/aniket-das-4376ba154" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -71,13 +69,17 @@
   /></a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/aniket10702843" target="blank"
     ><img
       src="https://img.shields.io/twitter/follow/aniket10702843?logo=twitter&style=for-the-badge"
       alt="aniket10702843"
-  /></a>
+          /></a>
+  <a href="https://wa.me/919433475791" target="blank">
+    <img src ="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="+91-9433475791"/>
+  </a>
 </p>
+
 
 <!-- Details Section-->
 
