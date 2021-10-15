@@ -60,6 +60,8 @@
   Solving Problem with coding, having interests in Cyber Security & IOT
 </h3>
 
+<!-- Trophy-->
+
 <p align="center">
   <img width="800" />
   <a href="https://github.com/ryo-ma/github-profile-trophy"
