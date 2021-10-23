@@ -12,6 +12,7 @@
 </a>
 </h1>
 <!-- <h3 align="left">Connect with me:</h3> -->
+<!-- Dev-->
 <p align="center">
   <a href="https://dev.to/hackme" target="blank"
     ><img
